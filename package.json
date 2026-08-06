@@ -25,7 +25,7 @@
     "@anthropic-ai/sdk": "^0.89.0",
     "@heygen/liveavatar-web-sdk": "0.0.18",
     "ahooks": "3.9.5",
-    "next": "15.4.10",
+    "next": "16.3.0",
     "react": "^19.1.2",
     "react-dom": "^19.1.2",
     "tailwind-merge": "2.6.0"

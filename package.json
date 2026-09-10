@@ -54,7 +54,7 @@
     "typescript": "5.8.2",
     "typescript-eslint": "^8.37.0",
     "vite-tsconfig-paths": "^6.0.3",
-    "vitest": "^4.0.16"
+    "vitest": "^4.1.11"
   },
   "engines": {
     "node": ">=22"

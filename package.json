@@ -50,7 +50,7 @@
     "jsdom": "^27.4.0",
     "postcss": "^8.5.6",
     "prettier": "^3.4.2",
-    "tailwindcss": "3.4.17",
+    "tailwindcss": "4.3.3",
     "typescript": "5.8.2",
     "typescript-eslint": "^8.37.0",
     "vite-tsconfig-paths": "^6.0.3",
